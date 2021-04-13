@@ -1,6 +1,4 @@
 # Home-Credit-Default-Risk
-B2Metric adaptation project
-
 
 ## Results:
 | Model         | Score         | How  |
